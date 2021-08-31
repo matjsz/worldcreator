@@ -27,7 +27,7 @@ WIP
 
 # Installation
 It's pretty simple to have webWC in your project, you just simply need to choose if you wanna use the file in the cloud or download it.
-<br><br>[v1.0 - webWC.js](https://firebasestorage.googleapis.com/v0/b/worldcreatorjs.appspot.com/o/v1.0%2FwebWC.js?alt=media&token=235c4334-864a-4dd9-aceb-f148a95e858d) - <strong>"Generate It!" algorithm version.</strong>
+<br><br>[v1.0 - webWC.js](https://firebasestorage.googleapis.com/v0/b/worldcreatorjs.appspot.com/o/v1.0%2FwebWC.js?alt=media) - <strong>"Generate It!" algorithm version.</strong>
 
 # Conclusion
 Yup! It's here! I've finally put it into a "usable" state, i'll of course keep updating this... thing. If you like it, please star the repository, it will help a lot!
