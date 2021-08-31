@@ -24,6 +24,8 @@ Write an entire movie or a book for you.
   
 # Table of Contents
 <ul>
+  <li>Introduction</li>
+  <li>How data works</li>
   <li>Worlds</li>
   <li>Nations</li>
   <li>Realms</li>
