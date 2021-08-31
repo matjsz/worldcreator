@@ -26,6 +26,7 @@ Write an entire movie or a book for you.
 * [Introduction](https://github.com/matjsilva/worldcreator/wiki/Introduction)
 * [Get Started](https://github.com/matjsilva/worldcreator/wiki/Get-Started)
 * [Worlds](https://github.com/matjsilva/worldcreator/wiki/Worlds)
+* [Continents](https://github.com/matjsilva/worldcreator/wiki/Continents)
 * [Nations](https://github.com/matjsilva/worldcreator/wiki/Nations)
 * [Realms](https://github.com/matjsilva/worldcreator/wiki/Realms)
 * [Characters](https://github.com/matjsilva/worldcreator/wiki/Characters)
