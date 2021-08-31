@@ -23,14 +23,16 @@ Create a world with nations, realms, military forces (with allies and enemies), 
 Write an entire movie or a book for you.
   
 # Table of Contents
-Worlds
-Nations
-Realms
-Military Forces
-Characters
-Bloodlines
-Religions
-Gods
+<ul>
+  <li>Worlds</li>
+  <li>Nations</li>
+  <li>Realms</li>
+  <li>Military Forces</li>
+  <li>Characters</li>
+  <li>Bloodlines</li>
+  <li>Religions</li>
+  <li>Gods</li>
+</ul>
 
 # Installation
 It's pretty simple to have webWC in your project, you just simply need to choose if you wanna use the file in the cloud or download it.
