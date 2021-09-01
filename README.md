@@ -28,6 +28,7 @@ It's pretty simple to have webWC.js in your project, you just simply need to cho
 # Documentation
 * [Introduction](https://github.com/matjsilva/worldcreator/wiki/Introduction)
 * [Get Started](https://github.com/matjsilva/worldcreator/wiki/Get-Started)
+* [Time](https://github.com/matjsilva/worldcreator/wiki/Time)
 * [Worlds](https://github.com/matjsilva/worldcreator/wiki/Worlds)
 * [Continents](https://github.com/matjsilva/worldcreator/wiki/Continents)
 * [Nations](https://github.com/matjsilva/worldcreator/wiki/Nations)
@@ -36,6 +37,3 @@ It's pretty simple to have webWC.js in your project, you just simply need to cho
 * [Bloodlines](https://github.com/matjsilva/worldcreator/wiki/Bloodlines)
 * [Military Forces](https://github.com/matjsilva/worldcreator/wiki/Military-Forces)
 * [Religions](https://github.com/matjsilva/worldcreator/wiki/Religions)
-
-# Conclusion
-Yup! It's here! I've finally put it into a "usable" state, i'll of course keep updating this... thing. If you like it, please star the repository, it will help a lot!
