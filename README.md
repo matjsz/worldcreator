@@ -6,7 +6,7 @@
 </h1>
 
 <h4 align="center">
-  World Creator is an open-source API for creating procedural fantasy worlds.
+  World Creator is an open-source library for creating procedural fantasy worlds.
 </h4>
 <h4 align="center"></h4>
 
@@ -14,8 +14,6 @@
 
 # Overview
 webWC.js (or World Creator) generates a huge amount of data about a fantastical world, but it doesn't generates an UI neither a graphical visualization for the data generated. That's why this documentation exists.
-
-Since webWC runs at user's machine and not in a server, it doesn't require an OAuth or GET endpoint, it's not a REST API, it's just a big chunk of data that you can format and get awesome results
 
 <h2>What it can do</h2>
 Create a world with nations, realms, military forces (with allies and enemies), unique characters with a background history (folklore for most important characters), religions with unique gods and godesses and bloodlines for each character.
