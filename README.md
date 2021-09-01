@@ -2,7 +2,7 @@
   ⚙️<br>World Creator
   
   ![Coffee](https://img.shields.io/badge/%C3%89%20tudo%20culpa-do%20caf%C3%A9-brown?style=for-the-badge)
-  ![Coffee](https://img.shields.io/badge/Version-v1.0-brown?style=for-the-badge)
+  ![Coffee](https://img.shields.io/badge/Version-v1.1-brown?style=for-the-badge)
 </h1>
 
 <h4 align="center">
