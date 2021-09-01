@@ -20,7 +20,7 @@ Since webWC runs at user's machine and not in a server, it doesn't require an OA
 Create a world with nations, realms, military forces (with allies and enemies), unique characters with a background history (folklore for most important characters), religions with unique gods and godesses and bloodlines for each character.
 
 <h2>What it cannot do</h2>
-Write an entire movie or a book for you.
+Write an entire movie or book for you.
   
 # Table of Contents
 * [Introduction](https://github.com/matjsilva/worldcreator/wiki/Introduction)
