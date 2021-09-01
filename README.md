@@ -27,7 +27,7 @@ Write an entire movie or book for you.
 It's pretty simple to have webWC.js in your project, you just simply need to choose if you wanna use the file in the cloud or download it.
 <br><br>[v1.0 - webWC.js](https://firebasestorage.googleapis.com/v0/b/worldcreatorjs.appspot.com/o/v1.0%2FwebWC.js?alt=media) - <strong>"Generate It!" algorithm version.</strong>
   
-# Table of Contents
+# Documentation
 * [Introduction](https://github.com/matjsilva/worldcreator/wiki/Introduction)
 * [Get Started](https://github.com/matjsilva/worldcreator/wiki/Get-Started)
 * [Worlds](https://github.com/matjsilva/worldcreator/wiki/Worlds)
