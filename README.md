@@ -19,7 +19,7 @@ Since webWC runs at user's machine and not in a server, it doesn't require an OA
 <h2>What it can do</h2>
 Create a world with nations, realms, military forces (with allies and enemies), unique characters with a background history (folklore for most important characters), religions with unique gods and godesses and bloodlines for each character.
 
-<h2>What it cannot do</h2>.js
+<h2>What it cannot do</h2>
 Write an entire movie or book for you.
 
 # Installation
